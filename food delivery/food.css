@@ -1,0 +1,10 @@
+body{
+    background-image: url(bubu.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    max-width: 100%auto;
+    max-height: auto;
+}
+h1{
+    font-size: 80px;
+}
